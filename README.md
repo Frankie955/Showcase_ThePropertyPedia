@@ -1,4 +1,3 @@
-```md
 # ThePropertyPedia
 
 **Live: [www.thepropertypedia.com](https://www.thepropertypedia.com)**
@@ -13,7 +12,7 @@ Illustrative only, not financial advice.
 
 **See it move:** Choose **How It Works** for an animated walkthrough.
 
-![ThePropertyPedia: does it generate a positive return, and is that return better than the alternative? Two questions, one calculator.](public/social-share-card.png)
+![ThePropertyPedia social share card](social-share-card.png)
 
 ## What it does
 
@@ -48,4 +47,3 @@ A sample of the larger checks:
 ## Source code
 
 The source code is kept private.
-```
